@@ -9,7 +9,7 @@
 #include <string>
 using namespace std;
 
-
+//Submitter: Eden Reuveni
 
 void toLower(string* word){
 	  transform(word->begin(),word->end(),word->begin(),::tolower);
